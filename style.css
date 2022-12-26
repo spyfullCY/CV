@@ -1,0 +1,32 @@
+h1{
+    color: azure;
+    background-color: brown;
+    text-align: start;
+    font-style: oblique;
+  }
+
+  img{
+    border-radius: 100%;
+  }
+
+  #para1{
+    color: blue;
+    text-align: center;
+  }
+
+  ul.horizontal{
+    margin:0;
+    padding:0;
+    }
+
+    ul.horizontal li.b{
+      display:block;
+      float:left;
+      padding:0 10px;
+      }
+
+    ul.horizontal li.c{
+        display:block;
+        float: left;
+        padding:0 10px;
+        }
